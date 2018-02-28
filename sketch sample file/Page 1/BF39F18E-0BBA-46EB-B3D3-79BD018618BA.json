@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BF39F18E-0BBA-46EB-B3D3-79BD018618BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 375,
+    "x": 1292,
+    "y": -2990
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Navigation Bar - Modal Sheet",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D88F52F3-5128-47CC-AD4C-730959B0D582_symbolID",
+      "value": "7D3605BE-6635-43C4-AF48-B0A2C32B7011"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4CBD5F73-78B2-4061-9698-85F19AF24CCA_symbolID",
+      "value": "06EC7577-8034-476A-95E4-636A33C4B8C7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B9479B62-D415-47DE-8031-E4E084191556_stringValue",
+      "value": "Edit Mode Title"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C09D8D09-71BE-4534-9E98-72E68348BE82_symbolID",
+      "value": "D166EC6F-EB1C-4D6A-AEA5-ECE99F11599C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "13D58575-A45D-4C7D-92C6-E1B25962F540_symbolID",
+      "value": "EBE84C36-BC82-4C61-B802-673FE664B8EB"
+    }
+  ],
+  "overrides": {
+    "13D58575-A45D-4C7D-92C6-E1B25962F540": {
+      "symbolID": "EBE84C36-BC82-4C61-B802-673FE664B8EB"
+    },
+    "4CBD5F73-78B2-4061-9698-85F19AF24CCA": {
+      "symbolID": "06EC7577-8034-476A-95E4-636A33C4B8C7"
+    },
+    "B9479B62-D415-47DE-8031-E4E084191556": "Edit Mode Title",
+    "C09D8D09-71BE-4534-9E98-72E68348BE82": {
+      "symbolID": "D166EC6F-EB1C-4D6A-AEA5-ECE99F11599C"
+    },
+    "D88F52F3-5128-47CC-AD4C-730959B0D582": {
+      "symbolID": "7D3605BE-6635-43C4-AF48-B0A2C32B7011"
+    }
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "71C675D3-A56B-4683-87AE-9A61CE44B7CF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "613B5DD0-7922-4866-A09B-7E3D80CE4F0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 117,
+    "x": 123,
+    "y": 53
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "16D87242-F3D5-44B2-B176-0F08113D1A1F_stringValue",
+      "value": "5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3BA55AD5-30C4-410A-AD4D-BA0E967E7338_stringValue",
+      "value": "JKL"
+    }
+  ],
+  "overrides": {
+    "16D87242-F3D5-44B2-B176-0F08113D1A1F": "5",
+    "3BA55AD5-30C4-410A-AD4D-BA0E967E7338": "JKL"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7CE58910-383B-455B-B119-813A70B6621A",
+  "verticalSpacing": 0
+}

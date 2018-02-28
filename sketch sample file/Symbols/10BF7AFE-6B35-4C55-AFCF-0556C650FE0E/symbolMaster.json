@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1212,
+  "do_objectID": "10BF7AFE-6B35-4C55-AFCF-0556C650FE0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 375,
+    "x": 13782,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FE679DDD-0970-4C67-A3AC-A9CCD4930761"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E7278EE-738E-43D7-9726-352F8AA1AD77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99475EB7-D02C-4495-AFF3-6BE768871CD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C09F0350-AF2F-4487-AB29-FFC12949B150"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2000DEBF-822B-46E4-ABF0-D63A9DBB8357"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D128810-DC59-4A41-B1EB-3A452E04C185"
+    }
+  ],
+  "name": "Bars/Tabbar/Dark 5 Tabs",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D8FA6D0A-5015-4317-B80E-3E2EC6BF6409",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

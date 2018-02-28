@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FE1745C0-11BC-4834-AB4A-2725FE63532D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 375,
+    "x": 1292,
+    "y": -3200
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Navigation Bar - Hierarchical",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C09D8D09-71BE-4534-9E98-72E68348BE82_symbolID",
+      "value": "9465A9FE-6936-4660-9849-50A76E39C608"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "13D58575-A45D-4C7D-92C6-E1B25962F540_symbolID",
+      "value": "2E152457-FAF2-45BA-81AF-4553EF903367"
+    }
+  ],
+  "overrides": {
+    "13D58575-A45D-4C7D-92C6-E1B25962F540": {
+      "symbolID": "2E152457-FAF2-45BA-81AF-4553EF903367"
+    },
+    "C09D8D09-71BE-4534-9E98-72E68348BE82": {
+      "symbolID": "9465A9FE-6936-4660-9849-50A76E39C608"
+    }
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "71C675D3-A56B-4683-87AE-9A61CE44B7CF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8CBDB1F1-6A4F-4430-9A05-F1022D010ADC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 107,
+    "y": 70
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Action Sheet",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2EE6383-8C61-4C79-BA28-11BB38C2E086/C1B467EF-8698-4728-AC6B-84C42A40503E_symbolID",
+      "value": "B728C5B7-74FF-4EC6-B293-DE5B2FB25063"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A5865CF0-5310-47D0-B77F-488B18DD1BDE/D2B6ABD6-3C6D-4028-BD65-FD26FA15C525_stringValue",
+      "value": "Destructive Action"
+    }
+  ],
+  "overrides": {
+    "A2EE6383-8C61-4C79-BA28-11BB38C2E086": {
+      "C1B467EF-8698-4728-AC6B-84C42A40503E": {
+        "symbolID": "B728C5B7-74FF-4EC6-B293-DE5B2FB25063"
+      }
+    },
+    "A5865CF0-5310-47D0-B77F-488B18DD1BDE": {
+      "D2B6ABD6-3C6D-4028-BD65-FD26FA15C525": "Destructive Action"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B6F83CD-8179-481C-9FED-2D542BD0F12A",
+  "verticalSpacing": 0
+}

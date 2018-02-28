@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.4,
+    "blue": 0.05882352941176471,
+    "green": 0.01568627450980392,
+    "red": 0.01568627450980392
+  },
+  "changeIdentifier": 6360,
+  "do_objectID": "BE568EBC-51F9-470F-B206-BA950DC82030",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 17388,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "04E8BCFC-357E-4082-8CE8-D79400326279"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FCCCC5A-0BD6-4F97-ACD1-7429922E936A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17338AB0-729C-41E0-A86A-7FB9A710419C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75496B91-0D86-44E1-9FA1-F0FAF7AF2236"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "249340EF-19E5-4F5B-9ACB-E45D0B2D2312"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C085D7A8-8E49-4910-97EB-1B78620ACB0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFA8EA2E-1753-46F0-B373-4B8D240D9137"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "082DB776-BD99-43B8-8284-825B3FF8FEA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1202A47D-DD54-47D1-9C56-EF4E5BD80E7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D00C4C18-15F1-4F67-9E07-DB595283F874"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F33F041-968E-4F83-A916-6A08BD78F52C"
+    }
+  ],
+  "name": "Views/Activity View/_/Action Sheet Long with Description",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "858F7C4D-841F-4D0D-BC22-5AA8FE649328",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

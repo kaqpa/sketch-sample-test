@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 538,
+  "do_objectID": "6F23BFA2-A061-4014-AC89-DC2C25B74C79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 208,
+    "width": 270,
+    "x": 53585,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9E28043A-FF97-4A5D-B6EA-0A2390BC48F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E44C1468-7B90-4C6D-A2BA-83F4E4868249"
+    },
+    {
+      "class": "group",
+      "id": "6095AADC-B902-4AA4-BA68-A3AC17742BB4"
+    },
+    {
+      "class": "text",
+      "id": "A5A267B2-6F3C-4F03-BF93-95E48CE730AC"
+    },
+    {
+      "class": "text",
+      "id": "13E99D6E-7C51-40DA-8C8F-A8DF0FE8EBC3"
+    }
+  ],
+  "name": "Views/Alerts/Username & Password",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D3E8B445-0158-4B02-A884-E355B5C4A86B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5DE1748E-A714-4F65-B22B-F2DC32CC1298",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 897,
+    "y": -1030
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Controls/TableViewCell/Light Default + Action + Delete",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA3A432F-223B-432C-BF2C-64F6B220C53A/B22F6528-3B3B-443F-BAA2-4FA829399B35_symbolID",
+      "value": "56907601-4F0B-4E80-975A-65C7A0A2D105"
+    }
+  ],
+  "overrides": {
+    "CA3A432F-223B-432C-BF2C-64F6B220C53A": {
+      "B22F6528-3B3B-443F-BAA2-4FA829399B35": {
+        "symbolID": "56907601-4F0B-4E80-975A-65C7A0A2D105"
+      }
+    }
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "56A8CF56-6455-4E2A-A162-C593AB60948F",
+  "verticalSpacing": 0
+}

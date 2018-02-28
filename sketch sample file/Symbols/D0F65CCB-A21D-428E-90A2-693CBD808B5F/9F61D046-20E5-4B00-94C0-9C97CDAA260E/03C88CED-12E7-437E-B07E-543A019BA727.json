@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "03C88CED-12E7-437E-B07E-543A019BA727",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 117,
+    "x": 123,
+    "y": 161
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "0",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1F1BD51-C668-4642-AEA3-AF28A1CCD6BB_stringValue",
+      "value": "TUV"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DB53E477-CE4C-4DCC-9168-6D28BB26C749_stringValue",
+      "value": "0"
+    }
+  ],
+  "overrides": {
+    "A1F1BD51-C668-4642-AEA3-AF28A1CCD6BB": "TUV",
+    "DB53E477-CE4C-4DCC-9168-6D28BB26C749": "0"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7338162F-59DC-40A4-8179-FFED481FCC58",
+  "verticalSpacing": 0
+}
